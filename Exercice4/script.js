@@ -2,7 +2,7 @@
 /*
  Exercice 1
  */
- console.log(`---------------  Exercice 1 --------------`);
+ console.log(`---------------  Exercice  --------------`);
 
 // 1- Dans le corps de la page HTML, créez un div vide : <div class="listBooks"></div>
 // ok
